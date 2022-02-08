@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IPrinceChoudhary
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and MERN stack
 - 💞️ I’m looking to collaborate on making new projects
-- 📫 How to reach me  IG @princechoudhary784
+- 📫 How to reach me linkedin --> www.linkedin.com/in/prince-choudhary-26a467229
 
 <!---
 IPrinceChoudhary/IPrinceChoudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
