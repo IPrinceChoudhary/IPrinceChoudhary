@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IPrinceChoudhary
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning javascript and MERN stack
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on making new projects
 - 📫 How to reach me linkedin --> www.linkedin.com/in/prince-choudhary-26a467229
 
